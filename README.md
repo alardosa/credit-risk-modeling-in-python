@@ -1,4 +1,4 @@
-# Credit Risk Modeling in Python 
+# Python Data Science Complete – Credit Risk Modeling in Python Data Science
 
 Hi! Welcome to Python Credit Risk Modeling. A tutorial that teaches you how banks use python data science modeling to improve their performance and comply with regulatory requirements. This is the perfect tutorial for you, if you are interested in a python data science career.
 
